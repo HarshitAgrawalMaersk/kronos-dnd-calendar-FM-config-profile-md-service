@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:postgresql://weucathdndpsql01.postgres.database.azure.com:5432/dnddb?ssl=true&sslmode=require
+    username: dnd_developer@weucathdndpsql01
+    password: cdtkronosPassD123
